@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CorIGYEC3cK8Yt6Yy7N3eGNZh8rD4v8wxw4ij6c37uZNd1zMOyEzaMCtXamxXZRT0D3XzKPDBLJCGguB6X7JBg==",
+  "dgSpecHash": "++CXsDdBc7DBz41ep7cZCOivEUSsxkcizEiETPZHI+X7CvhCznaYef8+Dx90+xwvApR4cSlaWP3R6x6OYLpVmw==",
   "success": true,
-  "projectFilePath": "/Users/joaocurvelo/Projects/API_JWT/API_JWT/API_JWT.csproj",
+  "projectFilePath": "/Users/joaocurvelo/Documents/Projects/API_JWT/API_JWT.csproj",
   "expectedPackageFiles": [
     "/Users/joaocurvelo/.nuget/packages/microsoft.entityframeworkcore/7.0.12/microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
     "/Users/joaocurvelo/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.12/microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",

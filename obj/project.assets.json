@@ -1391,11 +1391,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/joaocurvelo/Projects/API_JWT/API_JWT/API_JWT.csproj",
+      "projectUniqueName": "/Users/joaocurvelo/Documents/Projects/API_JWT/API_JWT.csproj",
       "projectName": "API_JWT",
-      "projectPath": "/Users/joaocurvelo/Projects/API_JWT/API_JWT/API_JWT.csproj",
+      "projectPath": "/Users/joaocurvelo/Documents/Projects/API_JWT/API_JWT.csproj",
       "packagesPath": "/Users/joaocurvelo/.nuget/packages/",
-      "outputPath": "/Users/joaocurvelo/Projects/API_JWT/API_JWT/obj/",
+      "outputPath": "/Users/joaocurvelo/Documents/Projects/API_JWT/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/joaocurvelo/.nuget/NuGet/NuGet.Config"

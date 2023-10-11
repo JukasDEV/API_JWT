@@ -7,7 +7,7 @@ using System.Net.Mail;
 using System.Net;
 using API_JWT.Utils;
 
-namespace BetBuilderAPI.Controllers
+namespace API_JWT.Controllers
 {
     [Route("/")]
     [ApiController]
@@ -35,7 +35,7 @@ namespace BetBuilderAPI.Controllers
         {
             try
             {
-                string connectionString = _configuration.GetConnectionString("BetBuilder");
+                string connectionString = _configuration.GetConnectionString("desenvolvimento");
 
                 using (var connection = new NpgsqlConnection(connectionString))
                 {
@@ -80,7 +80,7 @@ namespace BetBuilderAPI.Controllers
         {
             try
             {
-                string connectionString = _configuration.GetConnectionString("BetBuilder");
+                string connectionString = _configuration.GetConnectionString("desenvolvimentop");
 
                 using (var connection = new NpgsqlConnection(connectionString))
                 {
@@ -153,7 +153,7 @@ namespace BetBuilderAPI.Controllers
         {
             try
             {
-                string connectionString = _configuration.GetConnectionString("BetBuilder");
+                string connectionString = _configuration.GetConnectionString("desenvolvimento");
 
                 using (var connection = new NpgsqlConnection(connectionString))
                 {
